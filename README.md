@@ -5,9 +5,10 @@ I am not good at writing tutorials and big read me files.
 
 The process is simple:
 
-a. put the config file in your user folder
-b. download everything from LIDC-IDRI
+a. put the config file in your user folder.
+b. download everything from LIDC-IDRI.
 c. Tune the parameters of the script to obtain more or less slices, to obtain all annotations rather than relying on only one, and more.
+d. I forgot to say, you have to install the pylidc library: pip install pylidc
 
 After the execution, you will have all the nodules cropped, with a specific file name, in your directory of choice.
 
